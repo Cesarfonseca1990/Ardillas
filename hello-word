@@ -1,0 +1,45 @@
+# Ardillas
+Hacer un programas de ardillas
+Algoritmo ardillas
+	
+	Definir x Como Entero
+	definir a1,a2,a3, suma Como Real
+	
+	x = 0
+	
+	
+	
+	
+	
+	Escribir "ingrese un numero"
+	Leer x
+	
+	a1 = x/3 +1
+	
+	a2 = a1/3+1
+	
+	a3 = a2 /3 +1
+	
+		suma=a1+a2+a3
+		
+
+	
+	Escribir "numero nueces: ",a1
+	Escribir "numero nueces: ",a2
+	Escribir "numero nueces: ",a3
+	Escribir "suma nueces: ",suma
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+FinAlgoritmo
+
+
+
